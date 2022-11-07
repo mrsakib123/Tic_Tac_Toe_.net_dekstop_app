@@ -1,0 +1,32 @@
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My_Tic_Tca_Toe.Form1.resources
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.AssemblyInfo.cs
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\bin\Debug\netcoreapp3.1\My Tic Tca Toe.exe
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\bin\Debug\netcoreapp3.1\My Tic Tca Toe.deps.json
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\bin\Debug\netcoreapp3.1\My Tic Tca Toe.runtimeconfig.json
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\bin\Debug\netcoreapp3.1\My Tic Tca Toe.runtimeconfig.dev.json
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\bin\Debug\netcoreapp3.1\My Tic Tca Toe.dll
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\bin\Debug\netcoreapp3.1\My Tic Tca Toe.pdb
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.dll
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.pdb
+C:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.genruntimeconfig.cache
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\bin\Debug\netcoreapp3.1\My Tic Tca Toe.exe
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\bin\Debug\netcoreapp3.1\My Tic Tca Toe.deps.json
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\bin\Debug\netcoreapp3.1\My Tic Tca Toe.runtimeconfig.json
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\bin\Debug\netcoreapp3.1\My Tic Tca Toe.runtimeconfig.dev.json
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\bin\Debug\netcoreapp3.1\My Tic Tca Toe.dll
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\bin\Debug\netcoreapp3.1\My Tic Tca Toe.pdb
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.csproj.AssemblyReference.cache
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My_Tic_Tca_Toe.Form1.resources
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.csproj.GenerateResource.cache
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.AssemblyInfoInputs.cache
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.AssemblyInfo.cs
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.csproj.CoreCompileInputs.cache
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.dll
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.pdb
+D:\Users\USER\source\repos\My Tic Tca Toe\My Tic Tca Toe\obj\Debug\netcoreapp3.1\My Tic Tca Toe.genruntimeconfig.cache
